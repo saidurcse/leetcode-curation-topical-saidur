@@ -11,7 +11,7 @@ Essentially, this is a curation of questions that I personally use to prepare fo
 Sign up with [Triplebyte](https://triplebyte.com/iv/axLndCI/cp) for free to interview once and apply for multiple top tech companies!
 
 ## Top 100 Liked Questions
-* https://leetcode.com/problem-list/79h8rn6/?page=1
+* https://leetcode.com/problem-list/79h8rn6/
 
 ## Arrays/Strings
 * [Maximum subarray](https://leetcode.com/problems/maximum-subarray/) (easy)
