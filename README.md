@@ -15,7 +15,7 @@ Sign up with [Triplebyte](https://triplebyte.com/iv/axLndCI/cp) for free to inte
 
 ## Arrays/Strings
 * [Maximum subarray](https://leetcode.com/problems/maximum-subarray/) (easy)  [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/max_sub_array_easy.java)
-* [Merge sorted array](https://leetcode.com/problems/merge-sorted-array) (easy)
+* [Merge sorted array](https://leetcode.com/problems/merge-sorted-array) (easy) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/merge-sorted-array-easy.java)
 * [Reverse string](https://leetcode.com/problems/reverse-string/) (easy)
 * [3sum](https://leetcode.com/problems/3sum/) (medium)
 * [Decode string](https://leetcode.com/problems/decode-string/) (medium)
