@@ -57,7 +57,7 @@ Sign up with [Triplebyte](https://triplebyte.com/iv/axLndCI/cp) for free to inte
 * [Task scheduler](https://leetcode.com/problems/task-scheduler/) (medium)
 * [Find median from data stream](https://leetcode.com/problems/find-median-from-data-stream/) (hard)
 ## Linked Lists/Deques
-* [Intersection of two linked lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) (easy)
+* [Intersection of two linked lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) (easy) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/160_intersection-of-two-linked-lists-easy.java)
 * [Linked list cycle](https://leetcode.com/problems/linked-list-cycle) (easy)
 * [Merge two sorted lists](https://leetcode.com/problems/merge-two-sorted-lists) (easy)
 * [Palindrome linked list](https://leetcode.com/problems/palindrome-linked-list/) (easy)
