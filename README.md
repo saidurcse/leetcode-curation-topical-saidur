@@ -59,7 +59,7 @@ Sign up with [Triplebyte](https://triplebyte.com/iv/axLndCI/cp) for free to inte
 ## Linked Lists/Deques
 * [Intersection of two linked lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) (easy) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/160_intersection-of-two-linked-lists-easy.java)
 * [Linked list cycle](https://leetcode.com/problems/linked-list-cycle) (easy) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/141_linked-list-cycle-easy.java)
-* [Merge two sorted lists](https://leetcode.com/problems/merge-two-sorted-lists) (easy)
+* [Merge two sorted lists](https://leetcode.com/problems/merge-two-sorted-lists) (easy) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/21_merge-two-sorted-lists-easy.java)
 * [Palindrome linked list](https://leetcode.com/problems/palindrome-linked-list/) (easy)
 * [Remove duplicates from sorted list](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) (easy)
 * [Reverse linked list](https://leetcode.com/problems/reverse-linked-list/) (easy)
