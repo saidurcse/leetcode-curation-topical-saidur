@@ -62,7 +62,7 @@ Sign up with [Triplebyte](https://triplebyte.com/iv/axLndCI/cp) for free to inte
 * [Merge two sorted lists](https://leetcode.com/problems/merge-two-sorted-lists) (easy) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/21_merge-two-sorted-lists-easy.java)
 * [Palindrome linked list](https://leetcode.com/problems/palindrome-linked-list/) (easy) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/234_palindrome-linked-list-easy.java)
 * [Remove duplicates from sorted list](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) (easy) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/83_remove-duplicates-from-sorted-list-easy.java)
-* [Reverse linked list](https://leetcode.com/problems/reverse-linked-list/) (easy)
+* [Reverse linked list](https://leetcode.com/problems/reverse-linked-list/) (easy) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/206_reverse-linked-list-easy.java)
 * [Odd even linked list](https://leetcode.com/problems/odd-even-linked-list/) (medium)
 * [Reverse linked list II](https://leetcode.com/problems/reverse-linked-list-ii/) (medium)
 * [Rotate list](https://leetcode.com/problems/rotate-list/) (medium)
