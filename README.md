@@ -68,7 +68,7 @@ Sign up with [Triplebyte](https://triplebyte.com/iv/axLndCI/cp) for free to inte
 * [Rotate list](https://leetcode.com/problems/rotate-list/) (medium)
 * [Merge k sorted lists](https://leetcode.com/problems/merge-k-sorted-lists/) (hard)
 ## Trees
-* [Balanced binary tree](https://leetcode.com/problems/balanced-binary-tree/) (easy)
+* [Balanced binary tree](https://leetcode.com/problems/balanced-binary-tree/) (easy) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/110_balanced-binary-tree-easy.java)
 * [Convert sorted array to binary search tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) (easy)
 * [Invert binary tree](https://leetcode.com/problems/invert-binary-tree/) (easy)
 * [Merge two binary trees](https://leetcode.com/problems/merge-two-binary-trees/) (easy)
