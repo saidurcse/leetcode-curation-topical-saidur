@@ -124,7 +124,7 @@ Sign up with [Triplebyte](https://triplebyte.com/iv/axLndCI/cp) for free to inte
 * [Wildcard matching](https://leetcode.com/problems/wildcard-matching/) (hard)
 ## Design & Implementation
 * [Implement queue using stacks](https://leetcode.com/problems/implement-queue-using-stacks/) (easy) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/232_implement-queue-using-stacks-easy.java)
-* [Min stack](https://leetcode.com/problems/min-stack/) (easy)
+* [Min stack](https://leetcode.com/problems/min-stack/) (easy) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/155_min-stack-easy.java)
 * [Binary search tree iterator](https://leetcode.com/problems/binary-search-tree-iterator/) (medium) **(implementation should be lazy)**
 * [Flatten nested list iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) (medium) **(implementation should be lazy)**
 * [Implement trie (prefix tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) (medium)
