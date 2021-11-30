@@ -17,7 +17,7 @@ Sign up with [Triplebyte](https://triplebyte.com/iv/axLndCI/cp) for free to inte
 * [Maximum subarray](https://leetcode.com/problems/maximum-subarray/) (easy)  [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/53_max_sub_array_easy.java)
 * [Merge sorted array](https://leetcode.com/problems/merge-sorted-array) (easy) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/88_merge-sorted-array-easy.java)
 * [Reverse string](https://leetcode.com/problems/reverse-string/) (easy) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/344_reverse-string-easy.java)
-* [3sum](https://leetcode.com/problems/3sum/) (medium)
+* [3sum](https://leetcode.com/problems/3sum/) (medium) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/15_3sum.java)
 * [Decode string](https://leetcode.com/problems/decode-string/) (medium)
 * [Find first and last position of element in sorted array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) (medium)
 * [Find K pairs with smallest sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) (medium)
