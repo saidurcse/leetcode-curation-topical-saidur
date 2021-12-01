@@ -18,7 +18,7 @@ Sign up with [Triplebyte](https://triplebyte.com/iv/axLndCI/cp) for free to inte
 * [Merge sorted array](https://leetcode.com/problems/merge-sorted-array) (easy) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/88_merge-sorted-array-easy.java)
 * [Reverse string](https://leetcode.com/problems/reverse-string/) (easy) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/344_reverse-string-easy.java)
 * [3sum](https://leetcode.com/problems/3sum/) (medium) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/15_3sum.java)
-* [Decode string](https://leetcode.com/problems/decode-string/) (medium)
+* [Decode string](https://leetcode.com/problems/decode-string/) (medium) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/394_decode-string.java)
 * [Find first and last position of element in sorted array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) (medium)
 * [Find K pairs with smallest sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) (medium)
 * [Kth largest element in an array](https://leetcode.com/problems/kth-largest-element-in-an-array/) (medium)
