@@ -19,7 +19,7 @@ Sign up with [Triplebyte](https://triplebyte.com/iv/axLndCI/cp) for free to inte
 * [Reverse string](https://leetcode.com/problems/reverse-string/) (easy) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/344_reverse-string-easy.java)
 * [3sum](https://leetcode.com/problems/3sum/) (medium) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/15_3sum.java)
 * [Decode string](https://leetcode.com/problems/decode-string/) (medium) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/394_decode-string.java)
-* [Find first and last position of element in sorted array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) (medium)
+* [Find first and last position of element in sorted array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) (medium) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/34_find-first-and-last-position-of-element-in-sorted-array.java)
 * [Find K pairs with smallest sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) (medium)
 * [Kth largest element in an array](https://leetcode.com/problems/kth-largest-element-in-an-array/) (medium)
 * [Longest increasing subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) (medium)
