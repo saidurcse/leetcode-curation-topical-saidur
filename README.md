@@ -23,7 +23,7 @@ Sign up with [Triplebyte](https://triplebyte.com/iv/axLndCI/cp) for free to inte
 * [Find K pairs with smallest sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) (medium) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/373_find-k-pairs-with-smallest-sums-medium.java)
 * [Kth largest element in an array](https://leetcode.com/problems/kth-largest-element-in-an-array/) (medium) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/215_kth-largest-element-in-an-array-medium.java)
 * [Longest increasing subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) (medium) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/300_longest-increasing-subsequence-medium.java)
-* [Maximum product subarray](https://leetcode.com/problems/maximum-product-subarray/) (medium)
+* [Maximum product subarray](https://leetcode.com/problems/maximum-product-subarray/) (medium) (medium) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/152_maximum-product-subarray-medium.java)
 * [Palindromic substrings](https://leetcode.com/problems/palindromic-substrings/) (medium)
 * [Product of array except self](https://leetcode.com/problems/product-of-array-except-self/) (medium)
 * [Search in rotated sorted array](https://leetcode.com/problems/search-in-rotated-sorted-array/) (medium)
