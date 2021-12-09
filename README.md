@@ -25,7 +25,7 @@ Sign up with [Triplebyte](https://triplebyte.com/iv/axLndCI/cp) for free to inte
 * [Longest increasing subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) (medium) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/300_longest-increasing-subsequence-medium.java)
 * [Maximum product subarray](https://leetcode.com/problems/maximum-product-subarray/) (medium) (medium) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/152_maximum-product-subarray-medium.java)
 * [Palindromic substrings](https://leetcode.com/problems/palindromic-substrings/) (medium) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/647_palindromic-substrings-medium.java)
-* [Product of array except self](https://leetcode.com/problems/product-of-array-except-self/) (medium)
+* [Product of array except self](https://leetcode.com/problems/product-of-array-except-self/) (medium) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/238_product-of-array-except-self-medium.java)
 * [Search in rotated sorted array](https://leetcode.com/problems/search-in-rotated-sorted-array/) (medium)
 * [Sort colors](https://leetcode.com/problems/sort-colors/) (medium)
 * [Subarray sum equals k](https://leetcode.com/problems/subarray-sum-equals-k/) (medium)
