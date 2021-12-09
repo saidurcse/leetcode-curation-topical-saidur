@@ -24,7 +24,7 @@ Sign up with [Triplebyte](https://triplebyte.com/iv/axLndCI/cp) for free to inte
 * [Kth largest element in an array](https://leetcode.com/problems/kth-largest-element-in-an-array/) (medium) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/215_kth-largest-element-in-an-array-medium.java)
 * [Longest increasing subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) (medium) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/300_longest-increasing-subsequence-medium.java)
 * [Maximum product subarray](https://leetcode.com/problems/maximum-product-subarray/) (medium) (medium) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/152_maximum-product-subarray-medium.java)
-* [Palindromic substrings](https://leetcode.com/problems/palindromic-substrings/) (medium)
+* [Palindromic substrings](https://leetcode.com/problems/palindromic-substrings/) (medium) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/647_palindromic-substrings-medium.java)
 * [Product of array except self](https://leetcode.com/problems/product-of-array-except-self/) (medium)
 * [Search in rotated sorted array](https://leetcode.com/problems/search-in-rotated-sorted-array/) (medium)
 * [Sort colors](https://leetcode.com/problems/sort-colors/) (medium)
