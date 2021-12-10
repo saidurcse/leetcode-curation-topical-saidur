@@ -26,7 +26,7 @@ Sign up with [Triplebyte](https://triplebyte.com/iv/axLndCI/cp) for free to inte
 * [Maximum product subarray](https://leetcode.com/problems/maximum-product-subarray/) (medium) (medium) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/152_maximum-product-subarray-medium.java)
 * [Palindromic substrings](https://leetcode.com/problems/palindromic-substrings/) (medium) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/647_palindromic-substrings-medium.java)
 * [Product of array except self](https://leetcode.com/problems/product-of-array-except-self/) (medium) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/238_product-of-array-except-self-medium.java)
-* [Search in rotated sorted array](https://leetcode.com/problems/search-in-rotated-sorted-array/) (medium)
+* [Search in rotated sorted array](https://leetcode.com/problems/search-in-rotated-sorted-array/) (medium) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/33_search-in-rotated-sorted-array-medium.java)
 * [Sort colors](https://leetcode.com/problems/sort-colors/) (medium)
 * [Subarray sum equals k](https://leetcode.com/problems/subarray-sum-equals-k/) (medium)
 * [Best time to buy and sell stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) (hard)
