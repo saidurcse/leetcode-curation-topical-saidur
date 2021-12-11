@@ -28,7 +28,7 @@ Sign up with [Triplebyte](https://triplebyte.com/iv/axLndCI/cp) for free to inte
 * [Product of array except self](https://leetcode.com/problems/product-of-array-except-self/) (medium) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/238_product-of-array-except-self-medium.java)
 * [Search in rotated sorted array](https://leetcode.com/problems/search-in-rotated-sorted-array/) (medium) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/33_search-in-rotated-sorted-array-medium.java)
 * [Sort colors](https://leetcode.com/problems/sort-colors/) (medium) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/75_sort-colors-medium.java)
-* [Subarray sum equals k](https://leetcode.com/problems/subarray-sum-equals-k/) (medium)
+* [Subarray sum equals k](https://leetcode.com/problems/subarray-sum-equals-k/) (medium) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/560_subarray-sum-equals-k-medium.java)
 * [Best time to buy and sell stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) (hard)
 * [Count of range sum](https://leetcode.com/problems/count-of-range-sum/) (hard)
 * [Count of smaller numbers after self](https://leetcode.com/problems/count-of-smaller-numbers-after-self/) (hard)
