@@ -47,7 +47,7 @@ Sign up with [Triplebyte](https://triplebyte.com/iv/axLndCI/cp) for free to inte
 * [Permutation in string](https://leetcode.com/problems/permutation-in-string/) (medium) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/567_permutation-in-string-medium.java)
 * [Minimum window substring](https://leetcode.com/problems/minimum-window-substring/) (hard)
 ### Intervals
-* [Merge intervals](https://leetcode.com/problems/merge-intervals) (medium)
+* [Merge intervals](https://leetcode.com/problems/merge-intervals) (medium) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/56_merge-intervals-medium.java)
 * [Non-overlapping intervals](https://leetcode.com/problems/non-overlapping-intervals/) (medium)
 * [Insert interval](https://leetcode.com/problems/insert-interval/) (hard)
 ### Heaps/Priority Queues
