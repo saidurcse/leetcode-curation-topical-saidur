@@ -44,7 +44,7 @@ Sign up with [Triplebyte](https://triplebyte.com/iv/axLndCI/cp) for free to inte
 * [Longest mountain in array](https://leetcode.com/problems/longest-mountain-in-array/) (medium) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/845_longest-mountain-in-array-medium.java)
 * [Longest substring without repeating characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) (medium) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/3_longest-substring-without-repeating-characters-medium.java)
 * [Minimum size subarray sum](https://leetcode.com/problems/minimum-size-subarray-sum/) (medium) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/209_minimum-size-subarray-sum-medium.java)
-* [Permutation in string](https://leetcode.com/problems/permutation-in-string/) (medium)
+* [Permutation in string](https://leetcode.com/problems/permutation-in-string/) (medium) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/567_permutation-in-string-medium.java)
 * [Minimum window substring](https://leetcode.com/problems/minimum-window-substring/) (hard)
 ### Intervals
 * [Merge intervals](https://leetcode.com/problems/merge-intervals) (medium)
