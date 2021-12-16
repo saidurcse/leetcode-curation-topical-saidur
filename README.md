@@ -54,7 +54,7 @@ Sign up with [Triplebyte](https://triplebyte.com/iv/axLndCI/cp) for free to inte
 * [Maximize sum of array after K negations](https://leetcode.com/problems/maximize-sum-of-array-after-k-negations/) (easy) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/1005_maximize-sum-of-array-after-k-negations-easy.java)
 * [Find K pairs with smallest sums](https://leetcode.com/problems/find-k-pairs-with-smallest-sums/) (medium) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/373_find-k-pairs-with-smallest-sums-medium.java)
 * [Kth largest element in an array](https://leetcode.com/problems/kth-largest-element-in-an-array/) (medium) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/215_kth-largest-element-in-an-array-medium.java)
-* [Task scheduler](https://leetcode.com/problems/task-scheduler/) (medium)
+* [Task scheduler](https://leetcode.com/problems/task-scheduler/) (medium) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/621_task-scheduler-medium.java)
 * [Find median from data stream](https://leetcode.com/problems/find-median-from-data-stream/) (hard)
 ## Linked Lists/Deques
 * [Intersection of two linked lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) (easy) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/160_intersection-of-two-linked-lists-easy.java)
