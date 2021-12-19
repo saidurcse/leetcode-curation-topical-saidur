@@ -74,7 +74,7 @@ Sign up with [Triplebyte](https://triplebyte.com/iv/axLndCI/cp) for free to inte
 * [Merge two binary trees](https://leetcode.com/problems/merge-two-binary-trees/) (easy) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/617_merge-two-binary-trees-easy.java)
 * [Range sum of BST](https://leetcode.com/problems/range-sum-of-bst/) (easy) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/938_range-sum-of-bst-easy.java)
 * [Symmetric tree](https://leetcode.com/problems/symmetric-tree/) (easy) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/101_symmetric-tree-easy.java)
-* [All nodes distance K in binary tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) (medium)
+* [All nodes distance K in binary tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) (medium) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/863_all-nodes-distance-k-in-binary-tree-medium.java)
 * [Binary tree inorder traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) (medium)
 * [Binary tree level order traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) (medium)
 * [Binary tree zigzag level order traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) (medium)
