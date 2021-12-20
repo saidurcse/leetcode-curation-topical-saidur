@@ -82,7 +82,7 @@ Sign up with [Triplebyte](https://triplebyte.com/iv/axLndCI/cp) for free to inte
 * [Construct binary tree from inorder and postorder traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) (medium)  [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/106_construct-binary-tree-from-inorder-and-postorder-traversal-medium.java)
 * [Construct binary tree from preorder and inorder traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) (medium) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/105_construct-binary-tree-from-preorder-and-inorder-traversal-medium.java)
 * [Construct binary tree from preorder and postorder traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal) (medium) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/889_construct-binary-tree-from-preorder-and-postorder-traversal-medium.java)
-* [Flatten binary tree to linked list](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) (medium)
+* [Flatten binary tree to linked list](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) (medium) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/114_flatten-binary-tree-to-linked-list-medium.java)
 * [Kth smallest element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) (medium)
 * [Lowest common ancestor of a binary tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) (medium)
 * [Maximum binary tree](https://leetcode.com/problems/maximum-binary-tree/) (medium)
