@@ -84,7 +84,7 @@ Sign up with [Triplebyte](https://triplebyte.com/iv/axLndCI/cp) for free to inte
 * [Construct binary tree from preorder and postorder traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal) (medium) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/889_construct-binary-tree-from-preorder-and-postorder-traversal-medium.java)
 * [Flatten binary tree to linked list](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) (medium) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/114_flatten-binary-tree-to-linked-list-medium.java)
 * [Kth smallest element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) (medium) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/230_kth-smallest-element-in-a-bst-medium.java)
-* [Lowest common ancestor of a binary tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) (medium)
+* [Lowest common ancestor of a binary tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) (medium) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/236_lowest-common-ancestor-of-a-binary-tree-meidum.java)
 * [Maximum binary tree](https://leetcode.com/problems/maximum-binary-tree/) (medium)
 * [Maximum level sum of a binary tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) (medium)
 * [Sum root to leaf numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) (medium)
