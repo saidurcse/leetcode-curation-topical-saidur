@@ -77,7 +77,7 @@ Sign up with [Triplebyte](https://triplebyte.com/iv/axLndCI/cp) for free to inte
 * [All nodes distance K in binary tree](https://leetcode.com/problems/all-nodes-distance-k-in-binary-tree/) (medium) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/863_all-nodes-distance-k-in-binary-tree-medium.java)
 * [Binary tree inorder traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) (medium) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/94_binary-tree-inorder-traversal-medium.java)
 * [Binary tree level order traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) (medium) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/102_binary-tree-level-order-traversal-medium.java)
-* [Binary tree zigzag level order traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) (medium)
+* [Binary tree zigzag level order traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) (medium) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/103_binary-tree-zigzag-level-order-traversal-medium.java)
 * [Binary tree right side view](https://leetcode.com/problems/binary-tree-right-side-view/) (medium)
 * [Construct binary tree from inorder and postorder traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) (medium)
 * [Construct binary tree from preorder and inorder traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal) (medium)
