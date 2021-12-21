@@ -88,7 +88,7 @@ Sign up with [Triplebyte](https://triplebyte.com/iv/axLndCI/cp) for free to inte
 * [Maximum binary tree](https://leetcode.com/problems/maximum-binary-tree/) (medium) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/654_maximum-binary-tree-medium.java)
 * [Maximum level sum of a binary tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/) (medium) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/1161_maximum-level-sum-of-a-binary-tree-medium.java)
 * [Sum root to leaf numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) (medium) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/129_sum-root-to-leaf-numbers-medium.java)
-* [Unique binary search trees](https://leetcode.com/problems/unique-binary-search-trees/) (medium)
+* [Unique binary search trees](https://leetcode.com/problems/unique-binary-search-trees/) (medium) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/96_unique-binary-search-trees-medium.java)
 * [Validate binary search tree](https://leetcode.com/problems/validate-binary-search-tree/) (medium)
 * [Binary tree maximum path sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) (hard)
 ## Graphs
