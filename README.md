@@ -94,7 +94,7 @@ Sign up with [Triplebyte](https://triplebyte.com/iv/axLndCI/cp) for free to inte
 ## Graphs
 * [Flood fill](https://leetcode.com/problems/flood-fill/) (easy) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/733_flood-fill-easy.java)
 * [Accounts merge](https://leetcode.com/problems/accounts-merge) (medium) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/721_accounts-merge-medium.java)
-* [Cheapest flights within k stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) (medium)
+* [Cheapest flights within k stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) (medium) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/787_cheapest-flights-within-k-stops-medium.java)
 * [Course schedule](https://leetcode.com/problems/course-schedule/) (medium)
 * [Course schedule II](https://leetcode.com/problems/course-schedule-ii/) (medium)
 * [Graph valid tree](https://leetcode.com/problems/graph-valid-tree/) (medium)
