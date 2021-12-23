@@ -97,7 +97,7 @@ Sign up with [Triplebyte](https://triplebyte.com/iv/axLndCI/cp) for free to inte
 * [Cheapest flights within k stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/) (medium) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/787_cheapest-flights-within-k-stops-medium.java)
 * [Course schedule](https://leetcode.com/problems/course-schedule/) (medium) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/207_course-schedule-medium.java)
 * [Course schedule II](https://leetcode.com/problems/course-schedule-ii/) (medium) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/210_course-schedule-ii-medium.java)
-* [Graph valid tree](https://leetcode.com/problems/graph-valid-tree/) (medium)
+* [Graph valid tree](https://leetcode.com/problems/graph-valid-tree/) (medium) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/417_pacific-atlantic-water-flow-medium.java)
 * [Pacific atlantic water flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) (medium)
 * [Redundant connection](https://leetcode.com/problems/redundant-connection) (medium)
 * [Word ladder](https://leetcode.com/problems/word-ladder/) (medium)
