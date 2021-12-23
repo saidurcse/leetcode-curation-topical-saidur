@@ -101,7 +101,7 @@ Sign up with [Triplebyte](https://triplebyte.com/iv/axLndCI/cp) for free to inte
 * [Pacific atlantic water flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) (medium) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/417_pacific-atlantic-water-flow-medium.java)
 * [Redundant connection](https://leetcode.com/problems/redundant-connection) (medium) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/654_maximum-binary-tree-medium.java)
 * [Word ladder](https://leetcode.com/problems/word-ladder/) (medium) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/127_word-ladder-medium.java)
-* [Word search](https://leetcode.com/problems/word-search/) (medium)
+* [Word search](https://leetcode.com/problems/word-search/) (medium) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/79_word-search-medium.java)
 ## Recursion/Backtracking
 * [Combination Sum](https://leetcode.com/problems/combination-sum/) (medium)
 * [Decode ways](https://leetcode.com/problems/decode-ways/) (medium)
