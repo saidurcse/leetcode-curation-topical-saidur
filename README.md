@@ -105,7 +105,7 @@ Sign up with [Triplebyte](https://triplebyte.com/iv/axLndCI/cp) for free to inte
 ## Recursion/Backtracking
 * [Combination Sum](https://leetcode.com/problems/combination-sum/) (medium) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/39_combination-sum-medium.java)
 * [Decode ways](https://leetcode.com/problems/decode-ways/) (medium) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/91_decode-ways-medium.java)
-* [Permutations](https://leetcode.com/problems/permutations/) (medium)
+* [Permutations](https://leetcode.com/problems/permutations/) (medium) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/46_permutations-medium.java)
 * [Permutations II (permutations with repetitions)](https://leetcode.com/problems/permutations-ii/) (medium)
 * [Subsets](https://leetcode.com/problems/subsets/) (medium)
 * [Interleaving string](https://leetcode.com/problems/interleaving-string/) (hard)
