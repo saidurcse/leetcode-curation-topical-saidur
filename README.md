@@ -114,7 +114,7 @@ Sign up with [Triplebyte](https://triplebyte.com/iv/axLndCI/cp) for free to inte
 * [Climbing stairs](https://leetcode.com/problems/climbing-stairs/) (easy) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/70_climbing-stairs-easy.java)
 * [Decode ways](https://leetcode.com/problems/decode-ways/) (medium) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/91_decode-ways-medium.java)
 * [Jump game](https://leetcode.com/problems/jump-game/) (medium) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/55_jump-game-medium.java)
-* [Longest increasing subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) (medium) 
+* [Longest increasing subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) (medium) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/300_longest-increasing-subsequence-medium.java)
 * [Minimum path sum](https://leetcode.com/problems/minimum-path-sum/) (medium) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/64_minimum-path-sum-medium.java)
 * [Unique paths](https://leetcode.com/problems/unique-paths/) (medium)
 * [Best time to buy and sell stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) (hard)
