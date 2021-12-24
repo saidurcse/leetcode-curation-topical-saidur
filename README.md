@@ -107,7 +107,7 @@ Sign up with [Triplebyte](https://triplebyte.com/iv/axLndCI/cp) for free to inte
 * [Decode ways](https://leetcode.com/problems/decode-ways/) (medium) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/91_decode-ways-medium.java)
 * [Permutations](https://leetcode.com/problems/permutations/) (medium) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/46_permutations-medium.java)
 * [Permutations II (permutations with repetitions)](https://leetcode.com/problems/permutations-ii/) (medium) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/47_permutations-ii-medium.java)
-* [Subsets](https://leetcode.com/problems/subsets/) (medium)
+* [Subsets](https://leetcode.com/problems/subsets/) (medium) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/78_subsets-medium.java)
 * [Interleaving string](https://leetcode.com/problems/interleaving-string/) (hard)
 * [Remove invalid parentheses](https://leetcode.com/problems/remove-invalid-parentheses/) (hard)
 ## Dynamic Programming
