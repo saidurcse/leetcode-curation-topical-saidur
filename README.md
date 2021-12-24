@@ -127,5 +127,5 @@ Sign up with [Triplebyte](https://triplebyte.com/iv/axLndCI/cp) for free to inte
 * [Min stack](https://leetcode.com/problems/min-stack/) (easy) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/155_min-stack-easy.java)
 * [Binary search tree iterator](https://leetcode.com/problems/binary-search-tree-iterator/) (medium) **(implementation should be lazy)** [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/173_binary-search-tree-iterator-medium.java)
 * [Flatten nested list iterator](https://leetcode.com/problems/flatten-nested-list-iterator/) (medium) **(implementation should be lazy)** [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/341_flatten-nested-list-iterator-medium.java)
-* [Implement trie (prefix tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) (medium)
+* [Implement trie (prefix tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) (medium) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/208_implement-trie-prefix-tree-medium.java)
 * [LRU cache](https://leetcode.com/problems/lru-cache) (medium)
