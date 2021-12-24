@@ -116,7 +116,7 @@ Sign up with [Triplebyte](https://triplebyte.com/iv/axLndCI/cp) for free to inte
 * [Jump game](https://leetcode.com/problems/jump-game/) (medium) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/55_jump-game-medium.java)
 * [Longest increasing subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) (medium) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/300_longest-increasing-subsequence-medium.java)
 * [Minimum path sum](https://leetcode.com/problems/minimum-path-sum/) (medium) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/64_minimum-path-sum-medium.java)
-* [Unique paths](https://leetcode.com/problems/unique-paths/) (medium)
+* [Unique paths](https://leetcode.com/problems/unique-paths/) (medium) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/62_unique-paths-medium.java)
 * [Best time to buy and sell stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) (hard)
 * [Interleaving string](https://leetcode.com/problems/interleaving-string/) (hard)
 * [Jump game II](https://leetcode.com/problems/jump-game-ii) (hard)
