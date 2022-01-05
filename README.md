@@ -13,6 +13,9 @@ Sign up with [Triplebyte](https://triplebyte.com/iv/axLndCI/cp) for free to inte
 ## Top 100 Liked Questions
 * https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions
 
+## Solution
+* [Two Sum](https://leetcode.com/problems/two-sum/) (easy)  [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/1_two_sum-easy.java)
+
 ## Arrays/Strings
 * [Maximum subarray](https://leetcode.com/problems/maximum-subarray/) (easy)  [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/53_max_sub_array_easy.java)
 * [Merge sorted array](https://leetcode.com/problems/merge-sorted-array) (easy) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/88_merge-sorted-array-easy.java)
