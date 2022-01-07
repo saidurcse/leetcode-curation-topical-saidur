@@ -15,6 +15,7 @@ Sign up with [Triplebyte](https://triplebyte.com/iv/axLndCI/cp) for free to inte
 
 ## Solution
 * [Two Sum](https://leetcode.com/problems/two-sum/) (easy)  [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/1_two_sum-easy.java)
+* [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) (easy)  [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/121_best-time-to-buy-and-sell-stock-easy.java)
 
 ## Arrays/Strings
 * [Maximum subarray](https://leetcode.com/problems/maximum-subarray/) (easy)  [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/53_max_sub_array_easy.java)
