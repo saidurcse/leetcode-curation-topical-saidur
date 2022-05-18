@@ -19,6 +19,7 @@ Sign up with [Triplebyte](https://triplebyte.com/iv/axLndCI/cp) for free to inte
 
 ## Contest Solution
 * [Count Prefixes of a Given String](https://leetcode.com/contest/biweekly-contest-77/problems/count-prefixes-of-a-given-string/)
+* [Intersection of Multiple Arrays](https://leetcode.com/contest/weekly-contest-290/problems/intersection-of-multiple-arrays/)
 
 ## Arrays/Strings
 * [Maximum subarray](https://leetcode.com/problems/maximum-subarray/) (easy)  [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/53_max_sub_array_easy.java)
