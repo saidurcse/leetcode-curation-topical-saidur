@@ -14,11 +14,11 @@ Sign up with [Triplebyte](https://triplebyte.com/iv/axLndCI/cp) for free to inte
 * https://leetcode.com/discuss/general-discussion/460599/blind-75-leetcode-questions
 
 ## Solution
-* [Two Sum](https://leetcode.com/problems/two-sum/) (easy)(biweekly-contest-77)  [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/1_two_sum-easy.java)
+* [Two Sum](https://leetcode.com/problems/two-sum/) (easy)  [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/1_two_sum-easy.java)
 * [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) (easy)  [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/121_best-time-to-buy-and-sell-stock-easy.java)
 
 ## Contest Solution
-* [Count Prefixes of a Given String](https://leetcode.com/contest/biweekly-contest-77/problems/count-prefixes-of-a-given-string/) (easy) [Solution.java](https://leetcode.com/problems/count-prefixes-of-a-given-string/discuss/1994990/Java-Solution)
+* [Count Prefixes of a Given String](https://leetcode.com/contest/biweekly-contest-77/problems/count-prefixes-of-a-given-string/) (easy)(biweekly-contest-77) [Solution.java](https://leetcode.com/problems/count-prefixes-of-a-given-string/discuss/1994990/Java-Solution)
 * [Intersection of Multiple Arrays](https://leetcode.com/contest/weekly-contest-290/problems/intersection-of-multiple-arrays/) (easy) [Solution.java](https://leetcode.com/problems/intersection-of-multiple-arrays/discuss/1976940/java-easy-solution)
 
 ## Arrays/Strings
