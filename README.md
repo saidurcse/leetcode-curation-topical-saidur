@@ -21,8 +21,9 @@ Sign up with [Triplebyte](https://triplebyte.com/iv/axLndCI/cp) for free to inte
 * [Counting Bits](https://leetcode.com/problems/counting-bits/) (easy) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/338_counting-bits-easy.java)
 * [Missing Number](https://leetcode.com/problems/missing-number/) (easy) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/268_missing-number-easy.java)
 * [Valid Anagram](https://leetcode.com/problems/valid-anagram/) (easy) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/242_valid-anagram-easy.java)
-* [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/) (easy) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/125_valid_palindrome-easy.java)
-* [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/) (easy) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/20_valid_parentheses-easy.java)
+* [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) (easy) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/125_valid_palindrome-easy.java)
+* [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) (easy) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/20_valid_parentheses-easy.java)
+* [Same Tree](https://leetcode.com/problems/same-tree/) (easy) [Solution.java](https://github.com/saidurcse/LeetCode-Solutions-Saidur/blob/main/100_same_tree-easy.java)
 
 ## Contest Solution
 * [Count Prefixes of a Given String](https://leetcode.com/contest/biweekly-contest-77/problems/count-prefixes-of-a-given-string/) (easy)(biweekly-contest-77) [Solution.java](https://leetcode.com/problems/count-prefixes-of-a-given-string/discuss/1994990/Java-Solution)
